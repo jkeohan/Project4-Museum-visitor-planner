@@ -22,10 +22,10 @@ User stories
 ------------
 >As a museum and travel fan, I want to have an app that helps me to be more efficient when visiting a museum during a short vacation.
 
--
+
 >I would like for this app to let me search the museum's current exhibitions and add them to a list in a todo list kind of style so that I can keep track of what I've seen.
 
--
+
 >I want to be able to keep a memo about any type of information regarding a particular artwork, including a sharable post describing the experience.
 
 
