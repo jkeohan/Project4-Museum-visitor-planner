@@ -1,5 +1,8 @@
 # Project4-Museum-visitor-planner
 
+Index
+-------------------------------------
+-[Project board](#project-board)
 
 Application briefing
 -------------------------------------
