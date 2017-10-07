@@ -2,8 +2,6 @@
 Capstone project for the WDI Fellowship GA/NYC-TTP
 Application briefing
 -------------------------------------
-[Project board](https://github.com/FelipeAtGA/Project4-Museum-visitor-planner#project-board)
--------------------------------------
 
 Visitor Planner is an application to facilitate and enhance a museum visitor's experience by allowing them to program their visit ahead of time.
 
