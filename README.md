@@ -28,10 +28,10 @@ User stories
 -
 >I want to be able to keep a memo about any type of information regarding a particular artwork, including a sharable post describing the experience.
 
--
+
 > The app should also have a delete and edit button to personalize my entries, along with a folder that holds that particular visit.
 
--
+
 >As a user, I'd like to create a network of museum fans so that we can share this posts detailing our experiences or planning a trip to the museum
 
 Time-priority matrix
