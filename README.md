@@ -1,5 +1,14 @@
 # Project4-Museum-visitor-planner
-Capstone project for the WDI Fellowship GA/NYC-TTP
+
+Index
+-------------------------------------
+- [Application briefing](#appkication-briefing)
+- [Wireframes](#wireframes)
+- [Technical spec](#technical-specifications)
+- [User storeis](#user-stories)
+- [Time-priority matrix](#time-priority-matrix)
+- [Project board](#project-board)
+
 Application briefing
 -------------------------------------
 
@@ -13,6 +22,7 @@ This application is in development phase, and the project is part of the WDI cur
 
 Wireframes
 ----------
+![Wireframe](https://github.com/FelipeAtGA/Project4-Museum-visitor-planner/readme_images/wireframe.png)
 
 Technical specifications
 ------------------------
