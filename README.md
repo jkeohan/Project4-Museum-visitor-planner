@@ -22,7 +22,7 @@ This application is in development phase, and the project is part of the WDI cur
 
 Wireframes
 ----------
-![Wireframe](https://github.com/FelipeAtGA/Project4-Museum-visitor-planner/readme_images/wireframe.png)
+![Wireframe](https://github.com/FelipeAtGA/Project4-Museum-visitor-planner/blob/master/readme_images/wireframe.png)
 
 Technical specifications
 ------------------------
@@ -46,6 +46,7 @@ User stories
 
 Time-priority matrix
 --------------------
+![Tiem-priority matrix](https://github.com/FelipeAtGA/Project4-Museum-visitor-planner/blob/master/readme_images/time-priority-matirx.png)
 
 Project board
 -------------
