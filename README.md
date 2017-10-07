@@ -2,7 +2,12 @@
 
 Index
 -------------------------------------
--[Project board](#project-board)
+- [Application briefing](#appkication-briefing)
+- [Wireframes](#wireframes)
+- [Technical spec](#technical-specifications)
+- [User storeis](#user-stories)
+- [Time-priority matrix](#time-priority-matrix)
+- [Project board](#project-board)
 
 Application briefing
 -------------------------------------
