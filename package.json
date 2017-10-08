@@ -21,7 +21,13 @@
   },
   "homepage": "https://github.com/FelipeAtGA/Project4-Museum-visitor-planner#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "eslint": "^4.8.0",
     "express": "^4.16.1",
-    "nodemon": "^1.12.1"
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1",
+    "path": "^0.12.7",
+    "pg-promise": "^6.10.3"
   }
 }
