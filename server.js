@@ -11,6 +11,11 @@ const methodOverride = require('method-override');
 // and enable a port for future deployment
 const PORT = process.env.PORT || 3000;
 
+//set up logger and body-parser
+app.use(logger('dev'));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false, }));
+
 
 //================= SETTING ROUTES ==================== //
 
