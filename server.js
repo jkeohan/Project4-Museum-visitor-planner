@@ -1,5 +1,11 @@
 const express =  require('express'); // bring express library
-const app = express(); // create an instance of express
+const app     = express(); // create an instance of express
+
+// bring all dependencies
+const logger         = require('morgan');
+const path           = require('path');
+const bodyParser     = require('body-parser');
+const methodOverride = require('method-override');
 
 // assign a port for server to run locally
 // and enable a port for future deployment
