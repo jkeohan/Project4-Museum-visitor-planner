@@ -1,0 +1,26 @@
+{
+  "name": "Project4-Museum-visitor-planner",
+  "version": "1.0.0",
+  "description": "Index ------------------------------------- - [Application briefing](#appkication-briefing) - [Wireframes](#wireframes) - [Technical spec](#technical-specifications) - [User storeis](#user-stories) - [Time-priority matrix](#time-priority-matrix) - [Project board](#project-board)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon",
+    "debug": "nodemon --inspect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeAtGA/Project4-Museum-visitor-planner.git"
+  },
+  "keywords": [],
+  "author": "Felipe Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeAtGA/Project4-Museum-visitor-planner/issues"
+  },
+  "homepage": "https://github.com/FelipeAtGA/Project4-Museum-visitor-planner#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
