@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/FelipeAtGA/Project4-Museum-visitor-planner#readme",
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "nodemon": "^1.12.1"
   }
 }
