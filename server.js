@@ -11,9 +11,20 @@ const methodOverride = require('method-override');
 // and enable a port for future deployment
 const PORT = process.env.PORT || 3000;
 
+
+//================= SETTING ROUTES ==================== //
+
+// planner routes
+const plannerRoutes = require('./routes/plannerRoutes');
+
 // set app to the root
 app.get('/', function (req, res) {
   res.send('Hello from app.get')
+});
+
+// handle 404 error
+app.get('*', function(req, res) {
+  res.status(404).send({message: 'Not found!'})
 });
 
 // making front and back end connection
