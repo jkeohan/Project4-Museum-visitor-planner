@@ -5,6 +5,11 @@ const app = express(); // create an instance of express
 // and enable a port for future deployment
 const PORT = process.env.PORT || 3000;
 
+// set app to the root
+app.get('/', function (req, res) {
+  res.send('Hello from app.get')
+})
+
 app.listen(PORT, () => {
   console.log(`Server up and running on port ${PORT}, in ${app.get('env')} mode.`)
 })
