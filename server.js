@@ -20,7 +20,7 @@ app.use(bodyParser.urlencoded({ extended: false, }));
 //================= SETTING ROUTES ==================== //
 
 // planner routes
-const plannerRoutes = require('./routes/plannerRoutes');
+//const plannerRoutes = require('./routes/plannerRoutes');
 
 // set app to the root
 app.get('/', function (req, res) {
