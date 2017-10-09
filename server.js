@@ -11,6 +11,9 @@ const methodOverride = require('method-override');
 // and enable a port for future deployment
 const PORT = process.env.PORT || 3000;
 
+// setting static file
+app.use('/static', express.static(path.join(__dirname, 'public')));
+
 //set up logger and body-parser
 app.use(logger('dev'));
 app.use(bodyParser.json());
@@ -24,7 +27,7 @@ app.use(bodyParser.urlencoded({ extended: false, }));
 
 // set app to the root
 app.get('/', function (req, res) {
-  res.send('Hello from app.get')
+  res.sendFile(__dirname + '/public/index.html');
 });
 
 // handle 404 error
