@@ -1,9 +1,9 @@
 const express =  require('express'); // bring express library
+const path    = require('path');
 const app     = express(); // create an instance of express
 
 // bring all dependencies
 const logger         = require('morgan');
-const path           = require('path');
 const bodyParser     = require('body-parser');
 const methodOverride = require('method-override');
 
